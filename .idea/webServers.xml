@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="48ca2f70-bbab-47c5-aff8-fa4a26f2ccd5" name="h38.netangels.ru" url=" h38.netangels.ru">
+        <fileTransfer rootFolder="/www" host="qashingelevich.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
