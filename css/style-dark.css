@@ -1354,7 +1354,7 @@ header .header-mobile .header-toggle i {
 }
 
 .portfolio-section .item figure:hover:before {
-    opacity: .7;
+    opacity: .1;
 }
 
 .portfolio-section .item figure:hover figcaption h4,
